@@ -1,0 +1,9 @@
+c:\users\stast\onedrive\документы\visual studio 2015\Projects\PoligonSquare\PoligonSquare\bin\Debug\PoligonSquare.exe.config
+c:\users\stast\onedrive\документы\visual studio 2015\Projects\PoligonSquare\PoligonSquare\bin\Debug\PoligonSquare.exe
+c:\users\stast\onedrive\документы\visual studio 2015\Projects\PoligonSquare\PoligonSquare\bin\Debug\PoligonSquare.pdb
+c:\users\stast\onedrive\документы\visual studio 2015\Projects\PoligonSquare\PoligonSquare\obj\Debug\PoligonSquare.csprojResolveAssemblyReference.cache
+c:\users\stast\onedrive\документы\visual studio 2015\Projects\PoligonSquare\PoligonSquare\obj\Debug\PoligonSquare.Form1.resources
+c:\users\stast\onedrive\документы\visual studio 2015\Projects\PoligonSquare\PoligonSquare\obj\Debug\PoligonSquare.Properties.Resources.resources
+c:\users\stast\onedrive\документы\visual studio 2015\Projects\PoligonSquare\PoligonSquare\obj\Debug\PoligonSquare.csproj.GenerateResource.Cache
+c:\users\stast\onedrive\документы\visual studio 2015\Projects\PoligonSquare\PoligonSquare\obj\Debug\PoligonSquare.exe
+c:\users\stast\onedrive\документы\visual studio 2015\Projects\PoligonSquare\PoligonSquare\obj\Debug\PoligonSquare.pdb
